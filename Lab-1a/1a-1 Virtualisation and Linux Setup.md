@@ -1,7 +1,7 @@
 Lab-1a Installing VMware and Ubuntu
 
 1\. Installed VMware on host OS (Windows 11). would show the VMware application installed and visible in the Start Menu.  
-![VMware Installed](Lab 1-a Images/1-a 1 VMware Installed.png)
+![VMware Installed](Lab-1a/1-a 1 VMware Installed.png)
 2\. Downloaded Ubuntu 22.04.3 LTS ISO image from the official Ubuntu website. Screenshot would show the downloaded file (ubuntu-22.04.3-desktop-amd64.iso).  
 
 
